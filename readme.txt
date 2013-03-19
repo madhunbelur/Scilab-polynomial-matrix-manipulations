@@ -4,6 +4,7 @@
 // Comments/criticisms about the program -> Madhu
 // Madhu Belur's website: http://www.ee.iitb.ac.in/~belur
 // This is a free program, you can do whatever you want.
+// This is released under the GPL license 2.
 
 
 better_method.sci  for overall implementation of H-infinity norm computation
